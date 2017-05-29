@@ -12,7 +12,7 @@ import java.util.Arrays;
 
 public class MainActivity extends AppCompatActivity {
 
-    ArrayList personNames = new ArrayList<>(Arrays.asList("Person 1", "Person 2", "Person 3", "Person 4", "Person 5", "Person 6", "Person 7", "Person 8"));
+    ArrayList personNames = new ArrayList<>(Arrays.asList("Person 1", "Person 2", "Person 3", "Person 4", "Person 5", "Person 6", "Person 7", "Person 8", "Person 9"));
     private Integer[] imageDataList = {R.drawable.media_thumbnail_list_01_select, R.drawable.media_thumbnail_list_02_select,
             R.drawable.media_thumbnail_list_03_select, R.drawable.media_thumbnail_list_04_select, R.drawable.media_thumbnail_list_05_select, R.drawable.media_thumbnail_list_06_select,
             R.drawable.media_thumbnail_list_07_select, R.drawable.media_thumbnail_list_08_select};
